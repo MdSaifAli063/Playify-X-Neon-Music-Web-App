@@ -1,4 +1,4 @@
-# 🎧 Playify X — Neon Muse Stream
+# 🎧 Playify X — Neon Music Stream
 
 A premium music dashboard built with React, TypeScript, Vite, and TanStack Start. Playify X combines cinematic UI, neon glassmorphism, live theme customization, downloads, notifications, and advanced library navigation for a polished listening experience.
 
