@@ -73,6 +73,7 @@ npm run format
 - `src/assets/` — images and media assets
 - `src/components/` — UI primitives and shared components
 
+
 ## 💡 Notes
 
 - The app uses a custom `usePersistedState` hook to save settings and UI state in localStorage.
