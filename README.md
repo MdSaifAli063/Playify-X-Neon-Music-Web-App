@@ -64,6 +64,7 @@ npm run lint
 npm run format
 ```
 
+
 ## 📁 Project Structure
 
 - `src/routes/index.tsx` — main app shell, view routing, theme application, and UI page components
