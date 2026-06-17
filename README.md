@@ -81,6 +81,7 @@ npm run format
 - `NotificationsView` supports category filtering, mark-as-read, delete, and preference toggles.
 - Sidebar and top bar navigation switch views using a shared `View` state.
 
+
 ## 🧑‍💻 Author
 
 Built in the `neon-muse-stream-main` workspace, with a polished premium UI and fast local development workflow.
