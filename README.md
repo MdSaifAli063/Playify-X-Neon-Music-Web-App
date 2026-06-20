@@ -26,7 +26,6 @@ A premium music dashboard built with React, TypeScript, Vite, and TanStack Start
 - `recharts` for charts
 - `sonner` for notifications
 
-
 ## 🚀 Getting Started
 
 ### Install dependencies
