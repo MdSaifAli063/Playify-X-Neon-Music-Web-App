@@ -2,7 +2,6 @@
 
 A premium music dashboard built with React, TypeScript, Vite, and TanStack Start. Playify X combines cinematic UI, neon glassmorphism, live theme customization, downloads, notifications, and advanced library navigation for a polished listening experience.
 
-
 ## ✨ Features
 
 - 🎵 Modern music dashboard with Home, Discover, Search, Trending, Artists, Albums, Favorites, Playlists, Downloads, Settings, Theme, and Notifications views
