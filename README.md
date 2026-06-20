@@ -12,7 +12,6 @@ A premium music dashboard built with React, TypeScript, Vite, and TanStack Start
 - 🚀 Smooth transitions using `framer-motion`
 - 🧩 Responsive layout with polished glassmorphism UI
 
-
 ## 🧱 Tech Stack
 
 - `react` / `react-dom`
